@@ -25,6 +25,8 @@ This is a Django-based web application for managing and displaying news articles
 #### Add Article (Admin)
 ![image](https://github.com/user-attachments/assets/7c3c8a50-4891-4974-84fc-3b9c12b68364)
 
+![image](https://github.com/user-attachments/assets/71014e5f-09df-45c3-84ba-bb2bee7c0e18)
+
 
 ## Project Structure
 ```
