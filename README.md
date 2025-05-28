@@ -11,7 +11,9 @@ This is a Django-based web application for managing and displaying news articles
 ### Visuals
 
 #### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png)![image](https://github.com/user-attachments/assets/20d52b6e-cd62-4483-840a-a98e4f4f335c)
+![image](https://github.com/user-attachments/assets/472bf078-a6ce-4844-9a81-ab2b977247b2)
+
 
 #### Article List
 ![Article List](screenshots/article_list.png)
